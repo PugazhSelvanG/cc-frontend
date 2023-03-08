@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://www.mkgifs.com/wp-content/uploads/2022/03/Live-Wallpaper-GIF-Anime.gif);
+    background-size: cover;
+}
+.container{
+    margin: 30px;
+    margin-top: 125px;
+    width: 400px;
+    height: 550px;
+    border-radius: 2%;
+    padding: 1%;
+    color: Black;
+    margin-left: 50%;
+    background-color: rgb(111, 102, 102);
+    opacity: 0.85;
+}
+.row{
+    color:rgb(250, 244, 244);
+    font-size: larger;
+}
+input{
+    border-radius: 10px;
+    border-color: #E69A8DFF;
+    width: 250px;
+    height: 30px;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+}
+button:hover:not(.active){
+    border-radius: 10px;
+    width: 120px;
+    height: 60px;
+    background-color: rgb(135, 224, 115);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
